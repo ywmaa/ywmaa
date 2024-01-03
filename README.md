@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ywmaa&label=Profile%20views&color=0e75b6&style=flat" alt="ywmaa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ywmaadev" target="blank"><img src="https://img.shields.io/twitter/follow/ywmaadev?logo=twitter&style=for-the-badge" alt="ywmaadev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/YwmaaPersonal" target="blank"><img src="https://img.shields.io/twitter/follow/YwmaaPersonal?logo=twitter&style=for-the-badge" alt="YwmaaPersonal" /></a> </p>
 
 - 🔭 I’m currently working on **Room (My Game)**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ywmaadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ywmaadev" height="30" width="40" /></a>
+<a href="https://twitter.com/YwmaaPersonal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YwmaaPersonal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ywmaagamesstudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ywmaagamesstudio" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Fp7ncA2xHw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Fp7ncA2xHw" height="30" width="40" /></a>
 </p>
